@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GoodInfo.TW Enhancement 台灣股市資訊網加強版
 // @namespace    http://www.ensky.tw
-// @version      0.1
+// @version      0.2
 // @description  enhance
 // @author       Ensky Lin
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser-polyfill.min.js
